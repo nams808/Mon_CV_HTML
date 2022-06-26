@@ -1,0 +1,153 @@
+@import url('../libs/icofont/icofont.css');
+@import url('../libs/bootstrap/css/bootstrap.css');
+
+
+
+.cv {
+box-shadow: 3px 3px 10px 2px rgb(122, 117, 117);
+}
+.avatar{
+    max-width: 120px;
+    max-height: 120px;
+}
+
+h1{
+    font-size:2rem;
+    
+}
+
+.titrePrincipal {
+    color: rgb(19, 87, 19)!important;
+}
+
+
+
+.html {
+    width:60px;
+}
+
+.css {
+    width:60px;
+}
+
+.bootstrap {
+    width:50px;
+}
+
+.js {
+    width:60px;
+}
+
+.jquery {
+    width:60px;
+}
+
+.react {
+    width:90px;
+}
+
+.sql {
+    width:60px;
+}
+
+.c_sharp {
+    width:60px;
+}
+
+.node {
+    width:60px;
+}
+
+.sql {
+    width:60px;
+}
+
+.symfony {
+    width:60px;
+}
+
+.jade {
+    width:60px;
+}
+
+.net {
+    width:60px;
+}
+
+.php {
+    width:70px;
+}
+
+.logoF {
+    -webkit-filter: grayscale(100%);
+}
+
+.sousTitre {
+    font-size:1.5em;
+    font-weight:bold;
+    color: rgb(19, 87, 19);
+    text-align:center;
+}
+
+.experience {
+    font-size:1.5em;
+    font-weight:bold;
+    color: rgb(19, 87, 19);
+}
+
+.centrer {
+    text-align:center;
+}
+
+.jumbotron {
+    display:4;
+}
+
+
+
+.list-unstyled {
+    text-align:left;
+}
+
+.git {
+    font-size:30px ;
+    
+}
+
+.in {
+    font-size:30px ;
+    
+}
+
+.txtDeco {
+    text-decoration:none !important;
+}
+
+.mail {
+    font-size:20px;
+    font-weight:bold;
+}
+
+.phon {
+    font-size:20px;
+}
+
+.hom {
+    font-size:20px;
+}
+
+li {
+    font-size:16px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
